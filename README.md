@@ -1,7 +1,7 @@
 ### Ola me chamo Rafael Pinho Zanelli 👋
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](13981862835)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafael12pinho@gmail.com)
+
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-zanelli-2b247522a/-2b247522a)
 
 ### Tecnologia que uso nos meus estudos!
